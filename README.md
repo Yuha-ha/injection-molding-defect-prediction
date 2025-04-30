@@ -14,7 +14,7 @@
 
 ---
 
-## 📘 Project Description (English)
+## 📘 Project Description
 
 This notebook develops and evaluates machine learning models to predict injection molding defects in automotive parts (CN7 & RG3), with an aim to deploy the results on a Streamlit-based dashboard.  
 ※ `unlabeled_data.csv` is not included in the repository due to its large size (215MB).
